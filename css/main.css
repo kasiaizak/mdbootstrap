@@ -315,10 +315,10 @@ html {
   -webkit-box-sizing: inherit;
           box-sizing: inherit; }
 
-.mdbootstrap-todolist div {
+body main, body .buttons, body .todo-list {
   padding: 20px; }
 
-.mdbootstrap-todolist .text-center ul li {
+body .todo-list__item {
   margin-bottom: 0; }
 
 /*# sourceMappingURL=main.css.map */
