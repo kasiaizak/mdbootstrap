@@ -8,4 +8,11 @@ html {
   box-sizing: inherit;
 }
 
-@import "mdbootstrap-todolist";
+body {
+
+  main, .buttons, .todo-list { padding: 20px; }
+
+  .todo-list__item {
+    margin-bottom: 0;
+  }
+}
